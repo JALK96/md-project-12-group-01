@@ -2,3 +2,5 @@ This line was added by student A.
 
 Here i implement a thermostat!
 Here I implement somthing different than a thermostat by working on the main branch!
+
+Here i implemet a second thermostat. 
